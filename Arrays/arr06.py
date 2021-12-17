@@ -1,5 +1,6 @@
 # Find max of all subarrays of size K
 # subarrays of size K => always think of sliding window approach once
+# But in this case sliding window will not help
 
 arr = [8, 5, 10, 7, 9, 4, 15, 12, 90, 13]
 K = 4
